@@ -9,5 +9,7 @@ class xMainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var occupation = "Android Developer"
+        var name = "Shiva Prasad Reddi"
+        var dob = "04/06/95"
     }
 }
